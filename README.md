@@ -1,5 +1,5 @@
 # signatum.miner
-Optimizations on the official AMD miner from signatum.io
+Optimizations on the official AMD Windows miner from signatum.io
 
 Test on rx 480 4G/8G and RX 460 4G
 
