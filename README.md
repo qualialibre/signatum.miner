@@ -1,7 +1,7 @@
 # signatum.miner
 Optimizations on the official AMD Windows miner from signatum.io
 
-Test on rx 480 4G/8G, RX 460 4G an dRX 470.
+Test on rx 480 4G/8G, RX 460 4G an dRX 570.
 
 Average gain time is about 5% from the official miner.
 
