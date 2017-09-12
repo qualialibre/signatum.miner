@@ -1,14 +1,14 @@
 # signatum.miner
 Optimizations on the official AMD Windows miner from signatum.io
 
-Test on rx 480 4G/8G and RX 460 4G
+Test on rx 480 4G/8G, RX 460 4G an dRX 470.
 
 Average gain time is about 5% from the official miner.
 
-<b>Installation</b>
-Just unzip the package over where sgminer.exe reside and <B>delete all .BIN </b> files.
-
 I did this so everybody enjoy a little upgrade in MHS for the little time left to mine signatum.
+
+<b>Installation instructions</b><br>
+Just unzip the package over where sgminer.exe reside and <B>delete all .BIN </b> files.
 
 Enjoy !
 
